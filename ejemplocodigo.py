@@ -15,3 +15,5 @@ print ("Cambio de ejemplo")
 print ("probando creacion de ramas")
 
 print ("sumando a y b")
+c = a - b
+
