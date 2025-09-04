@@ -12,5 +12,5 @@ print ("Cambio de ejemplo")
 
 print ("Cambio de ejemplo")
 
-
+c = a - b
 
